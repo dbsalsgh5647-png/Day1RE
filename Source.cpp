@@ -2,11 +2,11 @@
 
 using namespace std;
 
-int Day1RE()
+int main()
 {
 	cout << "Good morning" << endl;
 	cout << "¾È³çÇÏ¼¼¿ä!" << endl;
 
 	
-	return 0;
+	return 2;
 }
