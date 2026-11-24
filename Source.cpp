@@ -4,7 +4,7 @@ using namespace std;
 
 int Day1RE()
 {
-	cout << "hello Wolrd" << endl;
+	cout << "Good morning" << endl;
 	cout << "¾È³çÇÏ¼¼¿ä!" << endl;
 
 	
